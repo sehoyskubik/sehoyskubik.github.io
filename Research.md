@@ -1,4 +1,5 @@
 ---
-layout: page
-title:  Research
+menu: true
+order: 1
+image:
 ---
